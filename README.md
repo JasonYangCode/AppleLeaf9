@@ -8,7 +8,7 @@ The fusion of the four datasets [1-3] can make the proposed model identify more 
 
 <image src="./Figure 2.jpg" width="400" height="400">
 <center>Figure 2. Samples of AppleLeaf9: (a) healthy; (b) Alternaria leaf spot; (c) brown spot; (d) frogeye leaf spot; (e) grey spot; (f) mosaic; (g) powdery mildew; (h) rust; and (i) scab.</center>
-\<table>\</table>
+<table></table>
 
 
 [1] Hughes, David, and Marcel Salathé. "An open access repository of images on plant health to enable the development of mobile disease diagnostics." arXiv preprint arXiv:1511.08060 (2015).  
