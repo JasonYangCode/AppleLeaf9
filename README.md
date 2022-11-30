@@ -9,9 +9,11 @@ The fusion of the four datasets [1-3]can make the proposed model identify more c
 
 <image src="./Figure 2.jpg" width="400" height="400">
 <center>Figure 2. Samples of AppleLeaf9: (a) healthy; (b) Alternaria leaf spot; (c) brown spot; (d) frogeye leaf spot; (e) grey spot; (f) mosaic; (g) powdery mildew; (h) rust; and (i) scab.</center>
-<br> 
-[1] Hughes, David, and Marcel Salathé. "An open access repository of images on plant health to enable the development of mobile disease diagnostics." arXiv preprint arXiv:1511.08060 (2015).      
-[2] Jingze Feng, Xiaofei Chao. Apple Tree Leaf Disease Segmentation Dataset[DS/OL]. Science Data Bank, 2022[2022-11-30]. https://doi.org/10.11922/sciencedb.01627   
+
+
+
+[1] Hughes, David, and Marcel Salathé. "An open access repository of images on plant health to enable the development of mobile disease diagnostics." arXiv preprint arXiv:1511.08060 (2015).  
+[2] Jingze Feng, Xiaofei Chao. Apple Tree Leaf Disease Segmentation Dataset[DS/OL]. Science Data Bank, 2022[2022-11-30]. https://doi.org/10.11922/sciencedb.01627  
 [3] Thapa, Ranjita, et al. "The Plant Pathology Challenge 2020 data set to classify foliar disease of apples." Applications in Plant Sciences 8.9 (2020): e11390. https://doi.org/10.1002/aps3.11390
 
 ## 3.Cite this dataset
