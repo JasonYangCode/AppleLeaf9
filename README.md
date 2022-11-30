@@ -1,7 +1,7 @@
 ## Catalog
-1. [Keywords](#Keywords)
-2. [Dataset description](#Dataset description)
-3. [Cite this dataset](#Cite this dataset)
+1. [Keywords](#1.Keywords)
+2. [Dataset description](#2.Dataset description)
+3. [Cite this dataset](#3.Cite this dataset)
 
 ## 1.Keywords
 Apple leaf disease; Plant disease; Crop diseases; Image classification dataset; Fine-grained image classification
