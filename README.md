@@ -7,7 +7,7 @@ The fusion of the four datasets [1-3]can make the proposed model identify more c
 
 <center>Figure 1. Distribution of image sources in AppleLeaf9.</center>
 
-<image src="./Figure 2.jpg" width="100" height="100">
+<image src="./Figure 2.jpg" width="600" height="600">
 <center>Figure 2. Samples of AppleLeaf9: (a) healthy; (b) Alternaria leaf spot; (c) brown spot; (d) frogeye leaf spot; (e) grey spot; (f) mosaic; (g) powdery mildew; (h) rust; and (i) scab.</center>
 
 [1] Hughes, David, and Marcel Salathé. "An open access repository of images on plant health to enable the development of mobile disease diagnostics." arXiv preprint arXiv:1511.08060 (2015).      
