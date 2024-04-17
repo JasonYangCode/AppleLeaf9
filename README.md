@@ -19,6 +19,19 @@ The fusion of the four datasets [1-3] can make the proposed model identify more 
 ## 3. Cite this dataset
 Yang, Qing, Shukai Duan, and Lidan Wang. "Efficient Identification of Apple Leaf Diseases in the Wild Using Convolutional Neural Networks." Agronomy 12.11 (2022): 2784. https://doi.org/10.3390/agronomy12112784
 
+    @Article{agronomy12112784,
+    AUTHOR = {Yang, Qing and Duan, Shukai and Wang, Lidan},
+    TITLE = {Efficient Identification of Apple Leaf Diseases in the Wild Using Convolutional Neural Networks},
+    JOURNAL = {Agronomy},
+    VOLUME = {12},
+    YEAR = {2022},
+    NUMBER = {11},
+    ARTICLE-NUMBER = {2784},
+    URL = {https://www.mdpi.com/2073-4395/12/11/2784},
+    ISSN = {2073-4395},
+    DOI = {10.3390/agronomy12112784}
+    }
+
 ## 4. License
 Creative Commons Attribution 4.0 International.
 
